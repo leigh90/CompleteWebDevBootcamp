@@ -1,0 +1,39 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+.one{
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+
+    
+}
+.two{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding-right: 00px;
+    padding-top: 0px;
+    border-top-width: 20px;
+    border-left-width: 20px;
+    margin-left: 240px;
+    margin-top: 0px;
+    border-right-width: 20px;
+    
+}
+.three{
+    background-color: yellow;
+    /* margin-left: 61%; */
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    margin-left: 440px;
+    border-right-width: 10px;
+
+}
